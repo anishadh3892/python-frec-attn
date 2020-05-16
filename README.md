@@ -28,15 +28,17 @@ Python顔認識の出席システム
 4.	「Profileを保存する」ボタンを押してください。
      次表示する小さいパスワード画面に新パスワードを作ってください。
      もう一度「Profileを保存する」ボタンを押して作ったパスワードを入力して取ったデータを保存してください。
-![5](https://user-images.githubusercontent.com/45343739/82120646-a4a5cb80-97c2-11ea-8a9f-9befe581e3a7.JPG)
 ![6 pass](https://user-images.githubusercontent.com/45343739/82120647-a53e6200-97c2-11ea-94a3-ad0ec750fc3e.JPG)
 ![7 cnfrm](https://user-images.githubusercontent.com/45343739/82120645-a3749e80-97c2-11ea-9807-c8ca96514e94.JPG)
- 
-出席取る方法
+![8 dt svd](https://user-images.githubusercontent.com/45343739/82120704-023a1800-97c3-11ea-9169-8248473ca77c.JPG)
+
+# 出席取る方法
 1.	「出席を取る」ボタンをしてください。 
+
 2.	表示されるwebcamの画面に“Q”を押してください。 
- 
+![9](https://user-images.githubusercontent.com/45343739/82120712-17af4200-97c3-11ea-99e9-5a69f6ae3b2c.JPG)
 3.	出席取ったらその情報が左の「登録されている場合」の下のテーブルに表示します。 
+![10](https://user-images.githubusercontent.com/45343739/82120714-18e06f00-97c3-11ea-9fa1-94efc7cb3e51.JPG)
 
 
 

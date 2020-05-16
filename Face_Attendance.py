@@ -27,7 +27,7 @@ def tick():
 
 
 def contact():
-    mess._show(title='連絡先', message="メール : 'ni-mohamed@wiss1.co.jp' ")
+    mess._show(title='連絡先', message="メール : 'nishahamed2018@gmail.com' ")
 
 #------------------------------------------------------------------------------#
 
@@ -407,7 +407,7 @@ message.place(x=7, y=450)
 lbl3 = tk.Label(frame1, text="出席",width=20  ,fg="black"  ,bg="#D6CFC7"  ,height=1 ,font=('times', 17, ' bold '))
 lbl3.place(x=100, y=115)
 
-lbl3 = tk.Label(frame1, text="ni-mohamed@wiss1.co.jp",width=20  ,fg="black"  ,bg="#D6CFC7"  ,height=1 ,font=('times', 9, ' bold '))
+lbl3 = tk.Label(frame1, text="nishahamed2018@gmail.com",width=20  ,fg="black"  ,bg="#D6CFC7"  ,height=1 ,font=('times', 9, ' bold '))
 lbl3.place(x=170, y=500)
 
 res=0
